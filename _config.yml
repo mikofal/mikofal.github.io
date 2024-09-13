@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  <strong> Cześć! Mam na imię Mikołaj. </strong> <br><br> Tworzenie emocjonujących i przyciągających uwagę widza filmów to moja pasja. Dążę do tego, by moje kadry niosły ze sobą emocje, a wszystkie projekty traktuję indywidualnie, dbając o to, by każdy film opowiadał unikalną historię, która na długo zostanie w pamięci. <br> Zapraszam do kontaktu!
 
   <br><br>
-  "Tutaj znajdziesz moje portfolio oraz inne linki <a href='https://example.com'>moj%C4%85 stron%C4%99</a>."
+  "Tutaj znajdziesz moje portfolio oraz inne linki <a href='https://allmylinks.com/mikofalko</a>."
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
