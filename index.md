@@ -1,6 +1,6 @@
 ### Film Ślubny
 
-Pakiet 1 (1200 zł):
+#### Pakiet 1 (1200 zł):
 * Ceremonia ślubu
 * Przyjęcie weselne (max do godziny 1:00 w nocy)
 * Mini sesja plenerowa w dniu ślubu (w formie video)
