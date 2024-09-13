@@ -35,7 +35,7 @@ Koncepcja i scenariusz: Pomogę w stworzeniu oryginalnej koncepcji teledysku, kt
 Realizacja: Wysokiej jakości nagrania w różnych lokalizacjach.
 Montaż i postprodukcja: Profesjonalny montaż z dbałością o detale oraz dopasowanie efektów specjalnych, które podkreślą przekaz wizualny utworu.
 
-<img src="images/fota.jpeg?raw=true"/>
+<img src="images/fota2.jpeg?raw=true"/>
 
 #### Każda produkcja jest dostosowywana indywidualnie do potrzeb klienta. Możliwe są np. dłuższe ślubne filmy reportażowe lub dodatkowe sesje plenerowe, a także możliwość tworzenia krótszych klipów pod social media. Jeśli masz szczególne życzenia lub pomysły, chętnie je uwzględnię, by stworzyć fantastyczny film. 😊
 
