@@ -4,9 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Cześć! Mam na imię Mikołaj. Tworzenie emocjonujących i przyciągających uwagę widza filmów to moja pasja. Dążę do tego, by moje kadry niosły ze sobą emocje, a wszystkie projekty traktuję indywidualnie, dbając o to, by każdy film opowiadał unikalną historię, która na długo zostanie w pamięci. Zapraszam do kontaktu!
 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
