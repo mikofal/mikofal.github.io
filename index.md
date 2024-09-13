@@ -4,18 +4,18 @@
 ### Film Ślubny
 
 Pakiet 1 (1200 zł):
-Ceremonia ślubu
-Przyjęcie weselne (max do godziny 1:00 w nocy)
-Mini sesja plenerowa w dniu ślubu (w formie video)
+* Ceremonia ślubu
+* Przyjęcie weselne (max do godziny 1:00 w nocy)
+* Mini sesja plenerowa w dniu ślubu (w formie video)
 
 Efekt końcowy to 10-15 minutowy film przedstawiający najważniejsze momenty z uroczystości ślubnej oraz wesela, uwieczniony w sposób pełen emocji i wyjątkowych detali.
 
 
 Pakiet 2 (1800 zł):
-Przygotowania i first look
-Ceremonia ślubu
-Przyjęcie weselne (max do godziny 1:00 w nocy)
-Mini sesja plenerowa w dniu ślubu (w formie video)
+* Przygotowania i first look
+* Ceremonia ślubu
+* Przyjęcie weselne (max do godziny 1:00 w nocy)
+* Mini sesja plenerowa w dniu ślubu (w formie video)
 
 Efekt końcowy to 20-25 minutowy film przedstawiający najważniejsze momenty z uroczystości ślubnej oraz wesela, z dodatkiem 2-3 minutowego teledysku podsumowującego uroczystość. Dzięki tej opcji film zawiera pełen obraz całego dnia – od przygotowań, przez emocjonujący „first look”, aż po zabawę weselną.
 
