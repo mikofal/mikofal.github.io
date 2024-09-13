@@ -27,7 +27,6 @@ Zachowaj najważniejsze chwile z Twojego wyjątkowego wydarzenia w dynamicznym f
 Zwiększ zasięg i sprzedaż swojego produktu lub usługi dzięki kreatywnym i angażującym filmom reklamowym.
 Wspólnie stworzymy koncepcję, która przyciągnie uwagę Twoich klientów i wzmocni wizerunek Twojej marki.
 
-<img src="images/fota.jpeg?raw=true"/>
 
 ### Teledyski:
 
@@ -36,6 +35,7 @@ Koncepcja i scenariusz: Pomogę w stworzeniu oryginalnej koncepcji teledysku, kt
 Realizacja: Wysokiej jakości nagrania w różnych lokalizacjach.
 Montaż i postprodukcja: Profesjonalny montaż z dbałością o detale oraz dopasowanie efektów specjalnych, które podkreślą przekaz wizualny utworu.
 
+<img src="images/fota.jpeg?raw=true"/>
 
 #### Każda produkcja jest dostosowywana indywidualnie do potrzeb klienta. Możliwe są np. dłuższe ślubne filmy reportażowe lub dodatkowe sesje plenerowe, a także możliwość tworzenia krótszych klipów pod social media. Jeśli masz szczególne życzenia lub pomysły, chętnie je uwzględnię, by stworzyć fantastyczny film. 😊
 
