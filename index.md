@@ -1,11 +1,7 @@
 ## Oferta
 
----
-
-### Category Name 1 
-
-
-Film Ślubny
+--- 
+### Film Ślubny
 
 Pakiet 1 (1200 zł):
 Ceremonia ślubu
@@ -24,18 +20,18 @@ Mini sesja plenerowa w dniu ślubu (w formie video)
 Efekt końcowy to 20-25 minutowy film przedstawiający najważniejsze momenty z uroczystości ślubnej oraz wesela, z dodatkiem 2-3 minutowego teledysku podsumowującego uroczystość. Dzięki tej opcji film zawiera pełen obraz całego dnia – od przygotowań, przez emocjonujący „first look”, aż po zabawę weselną.
 
 
-Film z eventu (od 500 zł) (urodziny, imprezy okolicznościowe i wiele więcej):
+### Film z eventu (od 500 zł) (urodziny, imprezy okolicznościowe i wiele więcej):
 
 Zachowaj najważniejsze chwile z Twojego wyjątkowego wydarzenia w dynamicznym filmie, który odda atmosferę i energię imprezy.
 
 
-Filmy promocyjne i reklamy:
+### Filmy promocyjne i reklamy:
 
 Zwiększ zasięg i sprzedaż swojego produktu lub usługi dzięki kreatywnym i angażującym filmom reklamowym.
 Wspólnie stworzymy koncepcję, która przyciągnie uwagę Twoich klientów i wzmocni wizerunek Twojej marki.
 
 
-Teledyski:
+### Teledyski:
 
 Realizuję teledyski dla artystów, które oddają wyjątkowy charakter utworu i artystyczną wizję twórcy.
 Koncepcja i scenariusz: Pomogę w stworzeniu oryginalnej koncepcji teledysku, która w pełni odda klimat i przekaz piosenki.
