@@ -32,9 +32,9 @@ Wspólnie stworzymy koncepcję, która przyciągnie uwagę Twoich klientów i wz
 ### Teledyski:
 ---
 Realizuję teledyski dla artystów, które oddają wyjątkowy charakter utworu i artystyczną wizję twórcy.
-Koncepcja i scenariusz: Pomogę w stworzeniu oryginalnej koncepcji teledysku, która w pełni odda klimat i przekaz piosenki.
-Realizacja: Wysokiej jakości nagrania w różnych lokalizacjach.
-Montaż i postprodukcja: Profesjonalny montaż z dbałością o detale oraz dopasowanie efektów specjalnych, które podkreślą przekaz wizualny utworu.
+* Koncepcja i scenariusz: Pomogę w stworzeniu oryginalnej koncepcji teledysku, która w pełni odda klimat i przekaz piosenki.
+* Realizacja: Wysokiej jakości nagrania w różnych lokalizacjach.
+* Montaż i postprodukcja: Profesjonalny montaż z dbałością o detale oraz dopasowanie efektów specjalnych, które podkreślą przekaz wizualny utworu.
 
 <img src="images/fota2.jpeg?raw=true"/>
 
