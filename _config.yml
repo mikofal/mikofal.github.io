@@ -3,10 +3,10 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <strong> Cześć! Mam na imię Mikołaj. </strong> <br><br> Tworzenie emocjonujących i przyciągających uwagę widza filmów to moja pasja. Dążę do tego, by moje kadry niosły ze sobą emocje, a wszystkie projekty traktuję indywidualnie, dbając o to, by każdy film opowiadał unikalną historię, która na długo zostanie w pamięci. Zapraszam do kontaktu!
   <br><br>
- phone: "&#x1F4DE; +48 781 581 436"
-  <br>
   📞 +48 781 581 436
-  
+   <br>
+  ✉ mikolasf8@gmail.com
+   <br>
   <a href='https://allmylinks.com/mikofalko'>Tutaj znajdziesz moje portfolio</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
