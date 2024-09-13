@@ -27,6 +27,7 @@ Zachowaj najważniejsze chwile z Twojego wyjątkowego wydarzenia w dynamicznym f
 Zwiększ zasięg i sprzedaż swojego produktu lub usługi dzięki kreatywnym i angażującym filmom reklamowym.
 Wspólnie stworzymy koncepcję, która przyciągnie uwagę Twoich klientów i wzmocni wizerunek Twojej marki.
 
+<img src="images/fota.jpeg?raw=true"/>
 
 ### Teledyski:
 
