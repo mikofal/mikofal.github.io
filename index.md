@@ -8,7 +8,7 @@
 Efekt końcowy to 10-15 minutowy film przedstawiający najważniejsze momenty z uroczystości ślubnej oraz wesela, uwieczniony w sposób pełen emocji i wyjątkowych detali.
 
 
-Pakiet 2 (1800 zł):
+#### Pakiet 2 (1800 zł):
 * Przygotowania i first look
 * Ceremonia ślubu
 * Przyjęcie weselne (max do godziny 1:00 w nocy)
@@ -36,10 +36,10 @@ Realizacja: Wysokiej jakości nagrania w różnych lokalizacjach.
 Montaż i postprodukcja: Profesjonalny montaż z dbałością o detale oraz dopasowanie efektów specjalnych, które podkreślą przekaz wizualny utworu.
 
 
-Każda produkcja jest dostosowywana indywidualnie do potrzeb klienta. Możliwe są np. dłuższe ślubne filmy reportażowe lub dodatkowe sesje plenerowe, a także możliwość tworzenia krótszych klipów pod social media. Jeśli masz szczególne życzenia lub pomysły, chętnie je uwzględnię, by stworzyć fantastyczny film. 😊
+#### Każda produkcja jest dostosowywana indywidualnie do potrzeb klienta. Możliwe są np. dłuższe ślubne filmy reportażowe lub dodatkowe sesje plenerowe, a także możliwość tworzenia krótszych klipów pod social media. Jeśli masz szczególne życzenia lub pomysły, chętnie je uwzględnię, by stworzyć fantastyczny film. 😊
 
 
-Filmy dostarczane są w jakości 4K w formie cyfrowej
+#### Filmy dostarczane są w jakości 4K w formie cyfrowej
 
 
 
